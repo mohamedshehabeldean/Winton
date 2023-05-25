@@ -4,7 +4,7 @@ Prepared By:
 3-Eslam Hany Elsayed Nabwy Zoghla 
 4-Hadi Rabee Kamel Alam 
 5-Adham Ashraf Ebrahim Elganzoury 
-6-Alaa abdelmaksod Mohamed zahra 
+
 # Winton
 Winton website acts as a link between the freelancer and the client and  facilitates communication between them,
 Freelancing is a contract-based profession where you use your skills, 
