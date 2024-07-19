@@ -31,9 +31,8 @@ to him, for example, in terms of designing independent drawings, this may
 come in the form of images you have developed, and perhaps some  pieces 
 of art, as well as samples of previous works.
 
-- First nested list item
-* Second nested list item
+
 
 
 ## Technologies Used:
- ### **.**  Backend: PHP, SQL, XAMP <br> <br>. Frontend: HTML, CSS, JavaScript
+ ### -  Backend: PHP, SQL, XAMP <br> <br> *. Frontend: HTML, CSS, JavaScript
