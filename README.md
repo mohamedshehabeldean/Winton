@@ -33,5 +33,4 @@ of art, as well as samples of previous works.
 
 
 ## Technologies Used:
- <b>. Backend: PHP, SQL, XAMPP<\b>
- . Frontend: HTML, CSS, JavaScript
+ ### . Backend: PHP, SQL, XAMP <br>. Frontend: HTML, CSS, JavaScript
