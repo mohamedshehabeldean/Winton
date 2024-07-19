@@ -33,7 +33,7 @@ of art, as well as samples of previous works.
 
 100. First list item
      - First nested list item
-       - Second nested list item
+     - Second nested list item
 
 
 ## Technologies Used:
