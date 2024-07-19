@@ -30,3 +30,8 @@ their need and as the beauty of his work increases, more projects will come
 to him, for example, in terms of designing independent drawings, this may 
 come in the form of images you have developed, and perhaps some pieces 
 of art, as well as samples of previous works.
+
+
+## Technologies Used:
+# . Backend: PHP, SQL, XAMPP
+# . Frontend: HTML, CSS, JavaScript
